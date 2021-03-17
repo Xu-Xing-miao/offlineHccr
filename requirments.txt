@@ -1,0 +1,11 @@
+tensorflow==2.0.0
+keras==2.1.6
+opencv-python==4.0.1.23
+scipy==1.2.1
+h5py==2.10.0
+numpy
+matplotlib
+pandas
+requests
+scikit-image
+
